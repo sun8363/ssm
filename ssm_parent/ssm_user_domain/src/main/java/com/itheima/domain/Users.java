@@ -1,7 +1,7 @@
 package com.itheima.domain;
 
 import java.io.Serializable;
-
+//测试注释
 public class Users implements Serializable {
 	private Integer id;
 	private String username;
