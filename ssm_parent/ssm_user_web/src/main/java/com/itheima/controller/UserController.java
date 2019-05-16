@@ -16,7 +16,7 @@ public class UserController {
     private UsersService usersService;
 
     /**
-     * 用戶添加
+     * 用戶添加 菜鸟
      * @param user
      * @return
      */
